@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.mjs",
   "type": "module",
+  "homepage": "https://dan-gh-str.github.io/Files-uploader/src/",
   "scripts": {
     "serve": "parcel src/index.html"
   },
