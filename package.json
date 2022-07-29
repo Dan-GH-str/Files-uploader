@@ -2,7 +2,7 @@
   "name": "files-upload",
   "version": "1.0.0",
   "description": "",
-  "main": "app.mjs",
+  "main": "app.js",
   "type": "module",
   "homepage": "https://dan-gh-str.github.io/Files-uploader/src/",
   "scripts": {
