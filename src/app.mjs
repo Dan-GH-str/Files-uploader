@@ -1,5 +1,5 @@
-import { initializeApp } from "/firebase/app";
-import { getStorage, ref, uploadBytesResumable, getDownloadURL } from "/firebase/storage"
+import { initializeApp } from "./firebase/app";
+import { getStorage, ref, uploadBytesResumable, getDownloadURL } from "./firebase/storage"
 import {upload} from './upload.mjs'
 
 const firebaseConfig = {
